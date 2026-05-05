@@ -48,10 +48,10 @@ http://192.168.125.191
 ---
 
 ## 🔐 Credenciales por defecto
-
+```bash
 Usuario: admin
 Contraseña: 1p3t.2026
-
+```
 ⚠️ Recomendación: cambiar en el código antes de usar en producción.
 
 ---
