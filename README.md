@@ -103,9 +103,10 @@ Contraseña: 1p3t.2026
 
 ## 🔥 Ejemplo de visualización
 
+```bash
 CUMPLE JUAN 3 DIAS
 EXAMEN HOY!
-
+```
 ---
 
 ## 💾 Almacenamiento
